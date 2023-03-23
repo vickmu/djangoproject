@@ -6,3 +6,4 @@ key.pem
 cert.pem
 LightsailDefaultKey-us-east-2.pem
 LightsailDefaultKey-us-east-2.pem:Zone.Identifiers
+djangoproejct/LightsailDefaultKey-us-east-2.pem:Zone.Identifier
