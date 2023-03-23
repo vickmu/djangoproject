@@ -4,3 +4,5 @@ db.sqlite3
 
 key.pem
 cert.pem
+LightsailDefaultKey-us-east-2.pem
+LightsailDefaultKey-us-east-2.pem:Zone.Identifiers
